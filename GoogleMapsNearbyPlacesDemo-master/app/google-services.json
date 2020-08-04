@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "431814517665",
+    "firebase_url": "https://mapsnearbyplacesdemo-mas-b7efd.firebaseio.com",
+    "project_id": "mapsnearbyplacesdemo-mas-b7efd",
+    "storage_bucket": "mapsnearbyplacesdemo-mas-b7efd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431814517665:android:cad6eda00d2196bb50a1e0",
+        "android_client_info": {
+          "package_name": "com.example.priyanka.mapsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431814517665-vaoe0lfsdhslmvfu62isa6gi1c7tc1kl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.priyanka.mapsdemo",
+            "certificate_hash": "c246849fb74d57bb3b4b30625cf845ed9257a45d"
+          }
+        },
+        {
+          "client_id": "431814517665-udmk0otg9uvhcmgvb3g67lvml9mmrn4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgBz0we-kfC3JtGq9hs07Ar5v5_qALhjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431814517665-udmk0otg9uvhcmgvb3g67lvml9mmrn4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

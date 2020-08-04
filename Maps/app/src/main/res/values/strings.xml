@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_login">Login</string>
+
+
+    <string-array name="spinnerItems">
+        <item>Food</item>
+        <item>Bag</item>
+        <item>Bottle</item>
+        <item>Clothes</item>
+    </string-array>
+</resources>
